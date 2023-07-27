@@ -1,4 +1,14 @@
-<h1>Team Members</h1>
+<p align="center">
+    <img src="https://amrita-tifac-cyber-blockchain.github.io/Amrita-TIFAC-Cyber-Blockchain/AVV_PNG.png" alt ="Amrita" width="400" />
+    <img src="https://amrita-tifac-cyber-blockchain.github.io/Amrita-TIFAC-Cyber-Blockchain/TIFAC-CORE_in_Cyber_Security.png" alt ="TIFAC-CYBER" width="180" />
+</p>
+
+# Blockchain - Research Interest Group (B-RIG)
+<p align="center">
+    <img src="https://avatars.githubusercontent.com/u/129193826?s=400&u=1fcd80a193fc7377208d6fb5a02686bcc8754f66&v=4" alt ="B-RIG" width="360" />
+</p>
+
+## Core Team
 
 <table>
     <tr>
