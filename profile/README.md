@@ -19,7 +19,7 @@
     </tr>
     <tr>
         <td><img src="https://github.com/B-RIG/.github/blob/main/profile/images/Vinayak.jpg" alt="Vinayak R" width=144> </td>
-        <td> <b>Mr. Vinayak R </b>b<br/> 
+        <td> <b>Mr. Vinayak R </b><br/> 
         President <br/>
 		BRIG.22.0012 </td>		
     </tr>
@@ -43,13 +43,13 @@
     </tr>
     <tr>
         <td><img src="https://github.com/B-RIG/.github/blob/main/profile/images/Hitesh.jpg" alt="Karanam Hitesh Manjunath" width=144> </td> 
-        <td>Mr. Karanam Hitesh Manjunath <br/> 
+        <td><b>Mr. Karanam Hitesh Manjunath </b> <br/> 
         Treasurer<br/> 
 		BRIG.22.0017 </td>
     </tr>
     <tr>
 		<td><img src="https://github.com/B-RIG/.github/blob/main/profile/images/Kishore.jpg" alt="Kishore M" width=144> </td> 
-		<td>Mr. Kishore M <br/>
+		<td><b>Mr. Kishore M </b><br/>
 		Public Relations Officer<br/> 
 		BRIG.23.0018<br/> 
     </tr>  
