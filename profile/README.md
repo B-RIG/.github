@@ -13,32 +13,32 @@
 <table>
     <tr>
         <td><img src="https://github.com/B-RIG/.github/blob/main/profile/images/Ramaguru.png" alt="Ramaguru Radhakrishnan" width=144></td>
-        <td> Mr. Ramaguru Radhakrishnan <br/> 
+        <td> <b> Mr. Ramaguru Radhakrishnan </b> <br/> 
          Faculty Coordinator / Mentor / Founder <br/> 
          BRIG.22.0001 </td> 
     </tr>
     <tr>
         <td><img src="https://github.com/B-RIG/.github/blob/main/profile/images/Vinayak.jpg" alt="Vinayak R" width=144> </td>
-        <td>Mr. Vinayak R <br/> 
+        <td> <b>Mr. Vinayak R </b>b<br/> 
         President <br/>
 		BRIG.22.0012 </td>		
     </tr>
     <tr>
         <td><img src="https://github.com/B-RIG/.github/blob/main/profile/images/Manomithran.jpg" alt="Manomithran G" width=144> </td> 
-        <td>Mr. Manomithran G <br/> 
-        Vice - President <br/> 
+        <td><b>Mr. Manomithran G </b> <br/> 
+        Vice-President <br/> 
 		BRIG.22.0013 </td>	 
     </tr>
     <tr> 
         <td><img src="https://github.com/B-RIG/.github/blob/main/profile/images/Mittul.jpg" alt="Mittul R" width=144> </td> 
-        <td>Mr. Mittul R <br/> 
+        <td><b>Mr. Mittul R </b><br/> 
         Secretary <br/> 
 		BRIG.23.0015 </td>
     </tr>
     <tr>
         <td><img src="https://github.com/B-RIG/.github/blob/main/profile/images/Revan.jpg" alt="Nagireddy Venkata Revan" width=144> </td> 
-        <td>Mr. Nagireddy Venkata Revan <br/> 
-        Vice - Secretary <br/> 
+        <td><b>Mr. Nagireddy Venkata Revan </b> <br/> 
+        Joint-Secretary <br/> 
 		BRIG.23.0016 </td>
     </tr>
     <tr>
