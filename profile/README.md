@@ -58,7 +58,14 @@
         <td>Kishore M</td>
         <td>Public Relations Officer</td>
         <td><img src="link_to_kishore_photo.jpg" alt="Kishore M"></td>
-    </tr>
+    </tr>  
+</table>
+
+### Leads and Co-Leads 
+
+#### DApps
+
+<table>
     <tr>
         <td>BRIG.23.0019</td>
         <td>Bandreddy Ruthwik Krishna</td>
@@ -71,6 +78,10 @@
         <td>Co Lead - DApps</td>
         <td><img src="link_to_sai_nitin_photo.jpg" alt="Karaka Sri Sai Nitin"></td>
     </tr>
+</table>
+
+#### Forensics
+<table>    
     <tr>
         <td>BRIG.23.0021</td>
         <td>Sanjai Prashad D</td>
@@ -83,6 +94,10 @@
         <td>Co Lead - Forensics</td>
         <td><img src="link_to_dharmik_photo.jpg" alt="Sanneganti Dharmik"></td>
     </tr>
+</table>
+
+#### Metaverse
+<table> 
     <tr>
         <td>BRIG.23.0023</td>
         <td>Vishnu K</td>
@@ -95,6 +110,10 @@
         <td>Co Lead - Metaverse</td>
         <td><img src="link_to_roshni_photo.jpg" alt="Roshni V"></td>
     </tr>
+</table>
+
+#### Non-Fungible Token (NFT)
+<table> 
     <tr>
         <td>BRIG.23.0024</td>
         <td>Adwaith S</td>
@@ -107,6 +126,10 @@
         <td>Co Lead - NFT</td>
         <td><img src="link_to_ganasekhar_photo.jpg" alt="Penugonda V S Ganasekhar"></td>
     </tr>
+</table>
+
+#### Open Source Intelligence (OSINT)
+<table> 
     <tr>
         <td>BRIG.23.0026</td>
         <td>Middivari Charan Kumar Reddy</td>
@@ -119,6 +142,10 @@
         <td>Co Lead - OSINT</td>
         <td><img src="link_to_rakshan_photo.jpg" alt="Rakshan K"></td>
     </tr>
+</table>
+
+#### Smart Contract Security and Focus Groups
+<table> 
     <tr>
         <td>BRIG.23.0014</td>
         <td>Deepan A.S</td>
@@ -133,5 +160,4 @@
     </tr>
 </table>
 
-</body>
-</html>
+
