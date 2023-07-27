@@ -12,160 +12,46 @@
 
 <table>
     <tr>
-        <th>ID</th>
-        <th>Name</th>
-        <th>Position</th>
-        <th>Photo</th>
+        <td><img src="https://github.com/B-RIG/.github/blob/main/profile/images/Ramaguru.png" alt="Ramaguru Radhakrishnan" width=144></td>
+        <td> Mr. Ramaguru Radhakrishnan <br/> 
+         Faculty Coordinator / Mentor / Founder <br/> 
+         BRIG.22.0001 </td> 
     </tr>
     <tr>
-        <td>BRIG.22.0001</td>
-        <td>Mr. Ramaguru Radhakrishnan</td>
-        <td>Faculty Coordinator / Mentor / Founder</td>
-        <td><img src="images/Ramaguru.png" alt="Ramaguru Radhakrishnan" height=200></td>
+        <td><img src="images/Vinayak.jpg" alt="Vinayak R" width=144> </td>
+        <td>Vinayak R <br/> 
+        President <br/>
+		BRIG.22.0012 </td>		
     </tr>
     <tr>
-        <td>BRIG.22.0012</td>
-        <td>Vinayak R</td>
-        <td>President</td>
-        <td><img src="images/Vinayak.jpg" alt="Vinayak R" height=200></td>
+        <td><img src="images/Manomithran.jpg" alt="Manomithran G" width=144> </td> 
+        <td>Manomithran G <br/> 
+        Vice - President <br/> 
+		BRIG.22.0013 </td>	 
+    </tr>
+    <tr> 
+        <td><img src="images/Mittul.jpg" alt="Mittul R" width=144> </td> 
+        <td>Mittul R <br/> 
+        Secretary <br/> 
+		BRIG.23.0015 </td>
     </tr>
     <tr>
-        <td>BRIG.22.0013</td>
-        <td>Manomithran G</td>
-        <td>Vice - President</td>
-        <td><img src="images/Manomithran.jpg" alt="Manomithran G" height=200></td>
+        <td><img src="images/Revan.jpg" alt="Nagireddy Venkata Revan" width=144> </td> 
+        <td>Nagireddy Venkata Revan <br/> 
+        Vice - Secretary <br/> 
+		BRIG.23.0016 </td>
     </tr>
     <tr>
-        <td>BRIG.23.0015</td>
-        <td>Mittul R</td>
-        <td>Secretary</td>
-        <td><img src="images/Mittul.jpg" alt="Mittul R" height=200></td>
+        <td><img src="images/Hitesh.jpg" alt="Karanam Hitesh Manjunath" width=144> </td> 
+        <td>Karanam Hitesh Manjunath <br/> 
+        Treasurer<br/> 
+		BRIG.22.0017 </td>
     </tr>
     <tr>
-        <td>BRIG.23.0016</td>
-        <td>Nagireddy Venkata Revan</td>
-        <td>Vice - Secretary</td>
-        <td><img src="images/Revan.jpg" alt="Nagireddy Venkata Revan" height=200></td>
-    </tr>
-    <tr>
-        <td>BRIG.22.0017</td>
-        <td>Karanam Hitesh Manjunath</td>
-        <td>Treasurer</td>
-        <td><img src="images/Hitesh.jpg" alt="Karanam Hitesh Manjunath" height=200></td>
-    </tr>
-    <tr>
-        <td>BRIG.23.0018</td>
-        <td>Kishore M</td>
-        <td>Public Relations Officer</td>
-        <td><img src="images/Kishore.jpg" alt="Kishore M" height=200></td>
+		<td><img src="images/Kishore.jpg" alt="Kishore M" width=144> </td> 
+		<td>Kishore M <br/>
+		Public Relations Officer<br/> 
+		BRIG.23.0018<br/> 
     </tr>  
 </table>
-
-### Leads and Co-Leads 
-
-#### DApps
-
-<table>
-    <tr>
-        <td>BRIG.23.0019</td>
-        <td>Bandreddy Ruthwik Krishna</td>
-        <td>Lead - DApps</td>
-        <td><img src="link_to_ruthwik_photo.jpg" alt="Bandreddy Ruthwik Krishna" height=200></td>
-    </tr>
-    <tr>
-        <td>BRIG.23.0020</td>
-        <td>Karaka Sri Sai Nitin</td>
-        <td>Co Lead - DApps</td>
-        <td><img src="link_to_sai_nitin_photo.jpg" alt="Karaka Sri Sai Nitin" height=200></td>
-    </tr>
-</table>
-
-#### Forensics
-<table>    
-    <tr>
-        <td>BRIG.23.0021</td>
-        <td>Sanjai Prashad D</td>
-        <td>Lead - Forensics</td>
-        <td><img src="link_to_sanjai_photo.jpg" alt="Sanjai Prashad D" height=200></td>
-    </tr>
-    <tr>
-        <td>BRIG.23.0022</td>
-        <td>Sanneganti Dharmik</td>
-        <td>Co Lead - Forensics</td>
-        <td><img src="link_to_dharmik_photo.jpg" alt="Sanneganti Dharmik" height=200></td>
-    </tr>
-</table>
-
-#### Metaverse
-<table> 
-    <tr>
-        <td>BRIG.23.0023</td>
-        <td>Vishnu K</td>
-        <td>Lead - Metaverse</td>
-        <td><img src="link_to_vishnu_photo.jpg" alt="Vishnu K" height=200></td>
-    </tr>
-    <tr>
-        <td>BRIG.22.0004</td>
-        <td>Roshni V</td>
-        <td>Co Lead - Metaverse</td>
-        <td><img src="link_to_roshni_photo.jpg" alt="Roshni V" height=200></td>
-    </tr>
-</table>
-
-#### Non-Fungible Token (NFT)
-<table> 
-    <tr>
-        <td>BRIG.23.0024</td>
-        <td>Adwaith S</td>
-        <td>Lead - NFT</td>
-        <td><img src="link_to_adwaith_photo.jpg" alt="Adwaith S" height=200></td>
-    </tr>
-    <tr>
-        <td>BRIG.22.0025</td>
-        <td>Penugonda V S Ganasekhar</td>
-        <td>Co Lead - NFT</td>
-        <td><img src="link_to_ganasekhar_photo.jpg" alt="Penugonda V S Ganasekhar" height=200></td>
-    </tr>
-</table>
-
-#### Open Source Intelligence (OSINT)
-<table> 
-    <tr>
-        <td>BRIG.23.0026</td>
-        <td>Middivari Charan Kumar Reddy</td>
-        <td>Lead - OSINT</td>
-        <td><img src="link_to_charan_photo.jpg" alt="Middivari Charan Kumar Reddy" height=200></td>
-    </tr>
-    <tr>
-        <td>BRIG.23.0027</td>
-        <td>Rakshan K</td>
-        <td>Co Lead - OSINT</td>
-        <td><img src="link_to_rakshan_photo.jpg" alt="Rakshan K" height=200></td>
-    </tr>
-</table>
-
-#### Smart Contract Security and Focus Groups
-<table> 
-    <tr>
-        <td>BRIG.23.0014</td>
-        <td>Deepan A.S</td>
-        <td>Lead - Smart Contract Security</td>
-        <td><img src="link_to_deepan_photo.jpg" alt="Deepan A.S" height=200></td>
-    </tr>
-    <tr>
-        <td>BRIG.23.0028</td>
-        <td>Achyuth Anand</td>
-        <td>Co Lead - Smart Contract Security</td>
-        <td><img src="link_to_achyuth_photo.jpg" alt="Achyuth Anand" height=200></td>
-    </tr>
-</table>
-
-#### Vulnerability Assessment and Penetration Testing
-<table> 
-    <tr>
-        <td>BRIG.23.0050</td>
-        <td>Vinoth Kumar D</td>
-        <td>Lead - VAPT (FG)</td>
-        <td><img src="link_to_vinothd.jpg" alt="Vinoth Kumar D" height=200></td>
-    </tr>
 
