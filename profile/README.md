@@ -18,38 +18,38 @@
          BRIG.22.0001 </td> 
     </tr>
     <tr>
-        <td><img src="images/Vinayak.jpg" alt="Vinayak R" width=144> </td>
-        <td>Vinayak R <br/> 
+        <td><img src="https://github.com/B-RIG/.github/blob/main/profile/images/Vinayak.jpg" alt="Vinayak R" width=144> </td>
+        <td>Mr. Vinayak R <br/> 
         President <br/>
 		BRIG.22.0012 </td>		
     </tr>
     <tr>
-        <td><img src="images/Manomithran.jpg" alt="Manomithran G" width=144> </td> 
-        <td>Manomithran G <br/> 
+        <td><img src="https://github.com/B-RIG/.github/blob/main/profile/images/Manomithran.jpg" alt="Manomithran G" width=144> </td> 
+        <td>Mr. Manomithran G <br/> 
         Vice - President <br/> 
 		BRIG.22.0013 </td>	 
     </tr>
     <tr> 
-        <td><img src="images/Mittul.jpg" alt="Mittul R" width=144> </td> 
-        <td>Mittul R <br/> 
+        <td><img src="https://github.com/B-RIG/.github/blob/main/profile/images/Mittul.jpg" alt="Mittul R" width=144> </td> 
+        <td>Mr. Mittul R <br/> 
         Secretary <br/> 
 		BRIG.23.0015 </td>
     </tr>
     <tr>
-        <td><img src="images/Revan.jpg" alt="Nagireddy Venkata Revan" width=144> </td> 
-        <td>Nagireddy Venkata Revan <br/> 
+        <td><img src="https://github.com/B-RIG/.github/blob/main/profile/images/Revan.jpg" alt="Nagireddy Venkata Revan" width=144> </td> 
+        <td>Mr. Nagireddy Venkata Revan <br/> 
         Vice - Secretary <br/> 
 		BRIG.23.0016 </td>
     </tr>
     <tr>
-        <td><img src="images/Hitesh.jpg" alt="Karanam Hitesh Manjunath" width=144> </td> 
-        <td>Karanam Hitesh Manjunath <br/> 
+        <td><img src="https://github.com/B-RIG/.github/blob/main/profile/images/Hitesh.jpg" alt="Karanam Hitesh Manjunath" width=144> </td> 
+        <td>Mr. Karanam Hitesh Manjunath <br/> 
         Treasurer<br/> 
 		BRIG.22.0017 </td>
     </tr>
     <tr>
-		<td><img src="images/Kishore.jpg" alt="Kishore M" width=144> </td> 
-		<td>Kishore M <br/>
+		<td><img src="https://github.com/B-RIG/.github/blob/main/profile/images/Kishore.jpg" alt="Kishore M" width=144> </td> 
+		<td>Mr. Kishore M <br/>
 		Public Relations Officer<br/> 
 		BRIG.23.0018<br/> 
     </tr>  
