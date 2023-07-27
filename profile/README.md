@@ -21,43 +21,43 @@
         <td>BRIG.22.0001</td>
         <td>Mr. Ramaguru Radhakrishnan</td>
         <td>Faculty Coordinator / Mentor / Founder</td>
-        <td><img src="link_to_ramaguru_photo.jpg" alt="Ramaguru Radhakrishnan"></td>
+        <td><img src="images/Ramaguru.png" alt="Ramaguru Radhakrishnan"></td>
     </tr>
     <tr>
         <td>BRIG.22.0012</td>
         <td>Vinayak R</td>
         <td>President</td>
-        <td><img src="link_to_vinayak_photo.jpg" alt="Vinayak R"></td>
+        <td><img src="images/Vinayak.jpg" alt="Vinayak R"></td>
     </tr>
     <tr>
         <td>BRIG.22.0013</td>
         <td>Manomithran G</td>
         <td>Vice - President</td>
-        <td><img src="link_to_manomithran_photo.jpg" alt="Manomithran G"></td>
+        <td><img src="images/Manomithran.jpg" alt="Manomithran G"></td>
     </tr>
     <tr>
         <td>BRIG.23.0015</td>
         <td>Mittul R</td>
         <td>Secretary</td>
-        <td><img src="link_to_mittul_photo.jpg" alt="Mittul R"></td>
+        <td><img src="images/Mittul.jpg" alt="Mittul R"></td>
     </tr>
     <tr>
         <td>BRIG.23.0016</td>
         <td>Nagireddy Venkata Revan</td>
         <td>Vice - Secretary</td>
-        <td><img src="link_to_revan_photo.jpg" alt="Nagireddy Venkata Revan"></td>
+        <td><img src="images/Revan.jpg" alt="Nagireddy Venkata Revan"></td>
     </tr>
     <tr>
         <td>BRIG.22.0017</td>
         <td>Karanam Hitesh Manjunath</td>
         <td>Treasurer</td>
-        <td><img src="link_to_hitesh_photo.jpg" alt="Karanam Hitesh Manjunath"></td>
+        <td><img src="images/Hitesh.jpg" alt="Karanam Hitesh Manjunath"></td>
     </tr>
     <tr>
         <td>BRIG.23.0018</td>
         <td>Kishore M</td>
         <td>Public Relations Officer</td>
-        <td><img src="link_to_kishore_photo.jpg" alt="Kishore M"></td>
+        <td><img src="images/Kishore.jpg" alt="Kishore M"></td>
     </tr>  
 </table>
 
@@ -160,4 +160,12 @@
     </tr>
 </table>
 
+#### Vulnerability Assessment and Penetration Testing
+<table> 
+    <tr>
+        <td>BRIG.23.0050</td>
+        <td>Vinoth Kumar D</td>
+        <td>Lead - VAPT (FG)</td>
+        <td><img src="link_to_vinothd.jpg" alt="Vinoth Kumar D"></td>
+    </tr>
 
